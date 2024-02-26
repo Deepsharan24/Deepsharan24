@@ -20,6 +20,26 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsharan24&show_icons=true&locale=en&layout=compact" alt="deepsharan24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsharan24&" alt="deepsharan24" /></p>
+<img src="https://raw.githubusercontent.com/Deepsharan24/Deepsharan24/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/317it3o3mx7cdnvq7tqdt6ngdkhi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317it3o3mx7cdnvq7tqdt6ngdkhi&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
 
 <!---
 Deepsharan24/Deepsharan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
