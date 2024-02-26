@@ -20,7 +20,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsharan24&show_icons=true&locale=en&layout=compact" alt="deepsharan24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsharan24&" alt="deepsharan24" /></p>
-<img src="https://raw.githubusercontent.com/Deepsharan24/Deepsharan24/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Deepsharan24/Deepsharan24/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
