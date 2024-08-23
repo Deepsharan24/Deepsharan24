@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepsharan24
 - 👀 I’m interested in Programming, Problem Solving
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Software Development 
+- 💞️ I’m looking to collaborate on growth
 - 📫 How to reach me @deepsharan02411@gmail.com
 <h1 align="center">Hi 👋, I'm Deep Sharan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
